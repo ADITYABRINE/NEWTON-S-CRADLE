@@ -3,7 +3,7 @@ class Bob {
     constructor(x, y) {
         var options = {
             isStatic: false,
-            restitution: 3,
+            restitution: 2,
             friction : 0.5,
             density : 1.2
         }
